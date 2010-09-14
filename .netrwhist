@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/home/osinski/.vim'
-let g:netrw_dirhist_2='/home/osinski/Projects/personal-site/django/personal_site/templates'
-let g:netrw_dirhist_3='/home/osinski/Projects/ordenesonline'
-let g:netrw_dirhist_4='/home/osinski/.vim'
-let g:netrw_dirhist_5='/home/osinski/Projects/derven-promos/promos/encuestas'
-let g:netrw_dirhist_6='/home/osinski/Projects/kaplo/kaplo/productos'
